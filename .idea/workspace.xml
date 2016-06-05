@@ -1,7 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f55c25c-c0d4-401a-a5be-5df8f9c533ef" name="Default" comment="" />
+    <list default="true" id="0f55c25c-c0d4-401a-a5be-5df8f9c533ef" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2002.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2003.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2004.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2005.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2006.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2007.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2008.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2009.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2010.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2011.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2012.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2013.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2014.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2015.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LFT_2016.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2002.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2003.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2004.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2005.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2006.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2007.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2008.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2009.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2010.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2011.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2012.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2013.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2014.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2015.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\LTN_2016.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2005.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2006.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2007.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2008.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2009.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2010.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2011.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2012.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2013.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2014.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2015.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNBPrincipal_2016.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2003.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2004.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2005.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2006.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2007.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2008.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2009.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2010.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2011.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2012.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2013.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2014.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2015.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNB_2016.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2002.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2003.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2004.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2005.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2006.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2007.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2008.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2009.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2010.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2011.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2012.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2013.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2014.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2015.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNC_2016.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2004.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2005.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2006.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2007.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2008.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2009.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2010.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2011.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2012.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2013.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2014.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2015.xls" afterPath="" />
+      <change type="DELETED" beforePath="D:\User\Documents\GitHub\Simulacao_Carteira\Titulos\NTNF_2016.xls" afterPath="" />
+    </list>
     <ignored path="Simulacao_Carteira.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -301,10 +386,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
